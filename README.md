@@ -47,3 +47,5 @@ Trying to complete basic projects in various categories of Java.
 42. TotalFeet - Given an array of integers representing measurements in inches, write a program to calculate the total of measurements in feet.(TechMahindra Recruitment exam question)
 43. Niven Number - Niven Numbers are positive integers greater than 0 that are divisible by the sum of their digits. You are given a niven number 'n', If n is niven, then return the number of times it is divisible by the sum of its digits(i.e the quotient), else return 0.
 44. Number Guessing Game - In this Game, the computer is going to randomly select an integer from 1 to 100. You'll keep guessing numbers until you find the computer's number, and the computer will tell you each time if your guess was too high or too low.
+
+    THIS ALL QUESTION FOR JAVA 
