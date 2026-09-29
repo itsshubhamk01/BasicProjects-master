@@ -6,7 +6,8 @@ public class Change{
   public static void main(String [] args){
 
     Scanner scan = new Scanner(System.in);
-  
+
+    
     System.out.print("Enter cost(in ₹): ");
     int cost = scan.nextInt();
     System.out.print("Amout given(in ₹): ");
