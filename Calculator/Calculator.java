@@ -13,6 +13,7 @@ public class Calculator{
     System.out.println("|  Performs basic mathematical functions |");
     System.out.println("|   Add, subtract, divide and multiply.  |");
     System.out.println("|Exponents, inverse, squaring, squareroot|");
+  
     System.out.println("|          Percentage & Logarithm        |");
     System.out.println("<========================================>");
     
