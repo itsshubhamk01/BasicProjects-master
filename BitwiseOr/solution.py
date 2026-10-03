@@ -9,6 +9,7 @@ Output : 2
 7 is the maximum value possible of OR, 
 5|2 = 7 and 5|3 = 7*/
 
+
 /*Input : arr[] = {2, 6, 2, 8, 4, 5}
 Output : 3
 15 is the maximum value of OR and set
